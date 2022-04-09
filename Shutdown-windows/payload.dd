@@ -1,0 +1,25 @@
+REM Title: Windows Shutdown.
+REM Author: Jens van den Heuvel.
+REM Description: Open cmd and execute the shutdown command.
+REM Target: Windows(cmd).
+REM Version: 1.5
+REM Category: General
+
+GUI R
+REM Open run tool Win+R
+
+DELAY 500
+REM Wait 0.5 second(s).
+
+STRING cmd.exe
+REM Open Command Prompt.
+
+ENTER
+REM Hit enter.
+
+DELAY 1500
+REM Wait 1.5 Second(s).
+
+STRING shutdown -s -t 0
+ENTER
+REM Execute the shutdown command.
