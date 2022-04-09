@@ -1,0 +1,17 @@
+REM Title: Chromebook Shutdown.
+REM Author: Jens van den Heuvel.
+REM Description: Open menu op Chromebook and press the shutdown button..
+REM Target: Chrome-OS.
+REM Version: 1.1
+REM Category: General
+ALT SHIFT L 
+DELAY 100
+SHIFT TAB
+DELAY 100
+ENTER
+DELAY 100
+TAB
+TAB
+TAB
+DELAY 100
+ENTER
