@@ -3,6 +3,7 @@
 <br>
 <br>
 <h1>How to add the script o your raspberry pi pico?</h1>
+<p>Open the drive named "circuitPython" copy from your download map the payload.dd and pase it in the "circuitPython" drive</P>
   
 
 
