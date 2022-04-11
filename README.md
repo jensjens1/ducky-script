@@ -1,11 +1,8 @@
-# ducky-script
-Ducky scripts for Windows/Chrome-os.
-# links
-
-Raspberry pi pico: https://github.com/dbisu/pico-ducky 
-
-How to make a Rubber Ducky usb with Raspberry pi Pico https://www.youtube.com/watch?v=e_f9p-_JWZw
+<center><h1>Rubber-Ducky payloads</h1></center>
+<p>Payloads for Raspberry Pi Pico</p>
 <br>
-<h1>hello</h1>
+<br>
+<h1>How to add the script o your raspberry pi pico?</h1>
+  
 
 
