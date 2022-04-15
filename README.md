@@ -13,7 +13,7 @@
 <a href="https://www.amazon.com/XTVTX-High-Performance-Microcontroller-Ondersteuning-Development/dp/B09FJZ1WVS/ref=sr_1_5?crid=35XVA13JT8Z97&keywords=raspberry+pi+pico&qid=1649705202&sprefix=raspberry+pi+pi%2Caps%2C135&sr=8-5">Buy a Raspberry Pi Pico on Amazon</a>
 <br>
 <h2>Demostration Rick_roll</h2>
-  <a href="https://youtu.be/raOQZ18Nyys" >Rick-roll</a>
+  <a href="https://youtu.be/raOQZ18Nyys" >Rick roll</a>
   <br>
   <h1></h1>
   
